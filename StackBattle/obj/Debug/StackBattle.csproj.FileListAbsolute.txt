@@ -1,0 +1,50 @@
+C:\Users\User\SkyDrive\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\bin\Debug\StackBattle.exe.config
+C:\Users\User\SkyDrive\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\bin\Debug\StackBattle.exe
+C:\Users\User\SkyDrive\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\bin\Debug\StackBattle.pdb
+C:\Users\User\SkyDrive\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.csprojResolveAssemblyReference.cache
+C:\Users\User\SkyDrive\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.Form1.resources
+C:\Users\User\SkyDrive\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.Properties.Resources.resources
+C:\Users\User\SkyDrive\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.csproj.GenerateResource.Cache
+C:\Users\User\SkyDrive\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.exe
+C:\Users\User\SkyDrive\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.pdb
+C:\Users\d0g80\OneDrive\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\bin\Debug\StackBattle.exe.config
+C:\Users\d0g80\OneDrive\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.exe
+C:\Users\d0g80\OneDrive\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.pdb
+C:\Users\d0g80\OneDrive\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\bin\Debug\StackBattle.exe
+C:\Users\d0g80\OneDrive\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\bin\Debug\StackBattle.pdb
+C:\Users\d0g80\OneDrive\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.csprojResolveAssemblyReference.cache
+C:\Users\d0g80\OneDrive\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.Form1.resources
+C:\Users\d0g80\OneDrive\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.Properties.Resources.resources
+C:\Users\d0g80\OneDrive\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.csproj.GenerateResource.Cache
+C:\Users\User\OneDrive\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\bin\Debug\StackBattle.exe.config
+C:\Users\User\OneDrive\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.exe
+C:\Users\User\OneDrive\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.pdb
+D:\Workplace\Google Диск\StackBattle\StackBattle\bin\Debug\StackBattle.exe.config
+D:\Workplace\Google Диск\StackBattle\StackBattle\obj\Debug\StackBattle.exe
+D:\Workplace\Google Диск\StackBattle\StackBattle\obj\Debug\StackBattle.pdb
+D:\Workplace\Google Диск\StackBattle\StackBattle\bin\Debug\StackBattle.exe
+D:\Workplace\Google Диск\StackBattle\StackBattle\bin\Debug\StackBattle.pdb
+D:\Workplace\Google Диск\StackBattle\StackBattle\obj\Debug\StackBattle.csprojResolveAssemblyReference.cache
+D:\Workplace\Google Диск\StackBattle\StackBattle\obj\Debug\StackBattle.Form1.resources
+D:\Workplace\Google Диск\StackBattle\StackBattle\obj\Debug\StackBattle.Properties.Resources.resources
+D:\Workplace\Google Диск\StackBattle\StackBattle\obj\Debug\StackBattle.csproj.GenerateResource.Cache
+D:\Workplace\Google Диск\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\bin\Debug\StackBattle.exe.config
+D:\Workplace\Google Диск\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.exe
+D:\Workplace\Google Диск\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.pdb
+D:\Workplace\Google Диск\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\bin\Debug\StackBattle.exe
+D:\Workplace\Google Диск\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\bin\Debug\StackBattle.pdb
+D:\Workplace\Google Диск\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.csprojResolveAssemblyReference.cache
+D:\Workplace\Google Диск\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.Form1.resources
+D:\Workplace\Google Диск\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.Properties.Resources.resources
+D:\Workplace\Google Диск\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.csproj.GenerateResource.Cache
+D:\Workplace\Google Диск\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\bin\Debug\GulyayGorod.dll
+D:\Workplace\Google Disk\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\bin\Debug\StackBattle.exe.config
+D:\Workplace\Google Disk\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.exe
+D:\Workplace\Google Disk\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.pdb
+D:\Workplace\Google Disk\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\bin\Debug\StackBattle.exe
+D:\Workplace\Google Disk\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\bin\Debug\StackBattle.pdb
+D:\Workplace\Google Disk\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\bin\Debug\GulyayGorod.dll
+D:\Workplace\Google Disk\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.csprojResolveAssemblyReference.cache
+D:\Workplace\Google Disk\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.Form1.resources
+D:\Workplace\Google Disk\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.Properties.Resources.resources
+D:\Workplace\Google Disk\Университет\6 семестр\Проектирование программной архитектуры\labs\StackBattle\StackBattle\obj\Debug\StackBattle.csproj.GenerateResource.Cache

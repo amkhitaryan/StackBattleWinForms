@@ -1,0 +1,2 @@
+[Armored:hp(15), dmg(6), armor(3), cost(15)] получил урон(4)
+ => [Armored:hp(11,6), dmg(6), armor(3), cost(15)]
