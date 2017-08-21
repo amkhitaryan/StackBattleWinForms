@@ -11,7 +11,7 @@ namespace StackBattle
     [Serializable]
     class Proxy : Subject
     {
-        private static string _path = "D:\\Desktop\\LogFile.txt";
+        private static string _path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "\\ProxyLog.txt";
 
         private MageUnit _realSubject;
         private Random _rnd;
