@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace StackBattle
 {
@@ -56,9 +53,6 @@ namespace StackBattle
 
         public override void DoSpecialAbility(Army a, Army b, int position, int combatMode)
         {
-            //_rnd = new Random((int)DateTime.Now.Ticks);
-            //if (_rnd.Next(0, 10) != 3) return; //10% шанс
-
             if (combatMode == 0 || combatMode == 2)
             {
                 var tmp = a.Units.ElementAt(position - 1) as ICloneable;

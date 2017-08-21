@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace StackBattle
 {
@@ -57,7 +55,6 @@ namespace StackBattle
             if (combatMode == 0 || combatMode == 2)
             {
                 var tmp = a.Units.ElementAt(position - 1) as ICanBeHealed;
-                //if (tmp != null && a.Units.ElementAt(position - 1).Hitpoints > 0 
                 //Проверяем, что юнит лечится, что он не труп и, что у него не макс хп
                 if (tmp != null && ((IUnit)tmp).Hitpoints > 0 && ((IUnit)tmp).Hitpoints < tmp.MaxHealth)
                 {
@@ -112,7 +109,6 @@ namespace StackBattle
         public void RemoveObserver(IObserver obs)
         {
             _observers.RemoveAt(_observers.IndexOf(obs));
-            //_observers.RemoveAt(_observers.FindIndex(x => x == obs));
         }
 
         public void NotifyObservers()

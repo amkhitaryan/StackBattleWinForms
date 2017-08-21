@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace StackBattle
 {
@@ -62,7 +59,6 @@ namespace StackBattle
                 var max = _range.Item2 - position;
                 if (max <= 0 || max > b.Units.Count) return;
                 var rnd = _rnd.Next(min, max);
-                //if (b.Units.ElementAt(rnd) != null) 
                 Debug.Write("Лучник из армии(" + a.Mark + ") атаковал юнита на позиции " + rnd + " с позиции " + position + " " + b.Units.ElementAt(rnd).GetUnitInfo());
                 b.Units.ElementAt(rnd).GetHit(Damage);
                 Debug.WriteLine(" => " + b.Units.ElementAt(rnd).GetUnitInfo());
@@ -71,14 +67,11 @@ namespace StackBattle
             else if (combatMode == 1)
             {
                 var min = (_range.Item2 - (position / 3) * 3) < 0 ? 0 : _range.Item2 - (position / 3) * 3;
-                //var max = -(position / 6 * 3) + (_range.Item2 - 1) * 3;
                 var max = _range.Item2 * 3 - position / 3 * 3 > b.Units.Count
                     ? b.Units.Count
                     : _range.Item2 * 3 - position / 3 * 3;
-                //max = max > b.Units.Count ? b.Units.Count : max;
                 if (max < 0 || min >= b.Units.Count) return;
                 var rnd = _rnd.Next(min, max);
-                //if (b.Units.ElementAt(rnd) != null)
                 Debug.Write("Лучник из армии(" + a.Mark + ") атаковал юнита на позиции " + rnd + " с позиции " + position + " " + b.Units.ElementAt(rnd).GetUnitInfo());
                 b.Units.ElementAt(rnd).GetHit(Damage);
                 Debug.WriteLine(" => " + b.Units.ElementAt(rnd).GetUnitInfo());
@@ -89,7 +82,6 @@ namespace StackBattle
                 var max = (position - 1) > b.Units.Count ? b.Units.Count - 1 : position - 1;
                 if (max < 0 || min >=b.Units.Count) return;
                 var rnd = _rnd.Next(min, max);
-                //if (b.Units.ElementAt(rnd) != null) 
                 Debug.Write("Лучник из армии(" + a.Mark + ") атаковал юнита на позиции " + rnd + " с позиции " + position + " " + b.Units.ElementAt(rnd).GetUnitInfo());
                 b.Units.ElementAt(rnd).GetHit(Damage);
                 Debug.WriteLine(" => " + b.Units.ElementAt(rnd).GetUnitInfo());

@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 
@@ -84,26 +83,6 @@ namespace StackBattle
                 return new HorseDecorator(hu);
             }
             return null;
-
-            //var rnd = _rnd.Next(0, 4);
-            //switch (rnd)
-            //{
-            //    case 0:
-            //        if(hu.Shield)
-            //        Debug.Write(" Щитом");
-            //        return new ShieldDecorator(hu);
-            //    case 1:
-            //        Debug.Write(" Копьем");
-            //        return new PikeDecorator(hu);
-            //    case 2:
-            //        Debug.Write(" Шлемом");
-            //        return new HelmetDecorator(hu);
-            //    case 3:
-            //        Debug.Write(" Лошадью");
-            //        return new HorseDecorator(hu);
-            //    default:
-            //        throw new ArgumentException("Wrong Decorator argument" + rnd + ".");
-            //}
         }
 
         public void DoSpecialAbility(Army a, Army b, int position, int combatMode)
@@ -114,7 +93,6 @@ namespace StackBattle
             if (combatMode == 0 || combatMode == 2)
             {
                 var tmp = a.Units.ElementAt(position - 1) as HeavyUnit;
-                //if (tmp != null && a.Units.ElementAt(position - 1).Hitpoints > 0 
                 //Проверяем, что юнит лечится, что он не труп и, что у него не макс хп
                 if (tmp != null && ((IUnit) tmp).Hitpoints > 0)
                 {
